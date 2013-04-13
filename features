@@ -1,0 +1,18 @@
+text, file constructors - ok
+should be sorted all the time
+add - ok -> now sorted and printing properly
+multiply
+	with constant - ok
+	with monomial - ok
+	with polynomial - ok
+differentiate - ok
+insert term - ok, basis of add
+solve for x - ok
+sort by exponent - sort method, integrate with other methods?
+combine coefficients - happens during construction
+
+marking points:
+sort by exponent - sort method, see above
+explain testing in README
+don't print coefficient if it is 0 - ok
+include comments in testing suite
